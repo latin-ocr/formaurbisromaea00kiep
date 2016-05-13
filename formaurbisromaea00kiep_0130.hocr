@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./formaurbisromaea00kiep_0130.png"; bbox 0 0 2062 3101; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2030 2509 2062 2997">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2030 2509 2062 2997">
+     <span class='ocr_line' id='line_1_1' title="bbox 2030 2509 2062 2997; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 2055 2509 2062 2542; x_wconf 83' lang='grc' dir='ltr'>-ι-ιι</span> <span class='ocrx_word' id='word_1_2' title='bbox 2053 2564 2062 2589; x_wconf 66' lang='grc' dir='ltr'>ιιι</span> <span class='ocrx_word' id='word_1_3' title='bbox 2051 2605 2062 2612; x_wconf 65' lang='grc' dir='ltr'>ιι</span> <span class='ocrx_word' id='word_1_4' title='bbox 2048 2624 2062 2640; x_wconf 61' lang='grc' dir='ltr'>,ι’</span> <span class='ocrx_word' id='word_1_5' title='bbox 2048 2657 2062 2671; x_wconf 75' lang='grc' dir='ltr'>Η</span> <span class='ocrx_word' id='word_1_6' title='bbox 2045 2712 2061 2717; x_wconf 52' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_7' title='bbox 2044 2761 2061 2766; x_wconf 78' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_8' title='bbox 2030 2799 2061 2997; x_wconf 42' lang='grc' dir='ltr'>ὶὶξῦ-ἱΜΧΜἏΜᾺῊἯΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2048 3092">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2048 3092">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2048 3092; textangle 270"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2048 3092; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
